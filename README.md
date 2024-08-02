@@ -1,4 +1,4 @@
-# Command Line GIT
+# Command Line GIT Pisit
 
 init -> add(Stage) -> commit
 
